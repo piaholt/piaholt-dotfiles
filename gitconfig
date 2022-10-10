@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pia.holtappels@icloud.com
+	name = Pia Holtappels
